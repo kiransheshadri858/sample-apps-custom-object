@@ -1,0 +1,73 @@
+{
+  "labels": {
+    "singular": "MM Transaction",
+    "plural": "MM Transactions"
+  },
+  "required_properties": [
+    "PROPERTY_EMAIL",
+    "PROPERTY_TRANSACTION_TYPE",
+    "PROPERTY_TRANSACTION_DATETIME",
+    "PROPERTY_HUBSPOT_SANDBOX_CONTACT_ID"
+  ],
+  "properties": [
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    },
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    },
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    },
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    },
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    },
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    },
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    },
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    },
+    {
+      "name": "my_object_property",
+      "label": "My object property",
+      "is_primary_display_label": true,
+      "field_type": "text"
+    }
+  ],
+  "associated_objects": [
+    "CONTACT"
+  ],
+  "name": "my_python_object",
+  "primary_display_property": "my_object_property"
+}
